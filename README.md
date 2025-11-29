@@ -72,8 +72,8 @@ Comprehensive study of computer science fundamentals, data structures, algorithm
 
 I'm interested in opportunities in **finance**, **automotive**, **esports**, **logistics** or other industries where data science drives strategic decision-making and operational excellence.
 
-- **LinkedIn**: [www.linkedin.com/in/pedro-tejero]
-- **Email**: [pedrotejero.tech@gmail.com]
+- **LinkedIn**: www.linkedin.com/in/pedro-tejero
+- **Email**: pedrotejero.tech@gmail.com
 <!-- - **Portfolio**: [Your Website] (optional) -->
 
 ---
