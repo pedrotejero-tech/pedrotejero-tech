@@ -1,4 +1,4 @@
-# Hi, I'm Pedro Tejero 👋
+# Hi, I'm Pedro Tejero 📊
 
 ## Data Scientist | Machine Learning Engineer
 
